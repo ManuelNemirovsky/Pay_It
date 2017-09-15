@@ -1,0 +1,2 @@
+configurations.create("default")
+artifacts.add("default", file('PayPalAndroidSDK-2.14.1.aar'))

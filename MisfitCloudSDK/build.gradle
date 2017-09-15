@@ -1,0 +1,2 @@
+configurations.create("default")
+artifacts.add("default", file('MisfitCloudSDK-2.0.0.jar'))
